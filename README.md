@@ -1,6 +1,6 @@
 ## Intro
 
-This a modified [tagcanvas](http://www.goat1000.com/tagcanvas.php) version, with `TagCanvas.Stop(id)` added.
+This a modified version of [tagcanvas](http://www.goat1000.com/tagcanvas.php) with `TagCanvas.Stop(id)` added.
 
 ## Why
 
